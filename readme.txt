@@ -1,10 +1,7 @@
 ﻿
-<<<<<<< HEAD
+
 hello3w
-=======
-hello1
->>>>>>> 50a22a7a19df49711c311684f54578571cddecf9
-    Directory: C:\Drives\GitWorkspace\JavaProject1
+   Directory: C:\Drives\GitWorkspace\JavaProject1
 
 
 Mode                LastWriteTime     Length Name                              
